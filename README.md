@@ -1,6 +1,6 @@
 # UniSA BSc Computing Repository
 
-Welcome! This repository contains study materials, resources, and documentation for **BSc Computing students at the University of South Australia (UniSA)**.
+Welcome! This repository contains study materials, resources, and documentation for **BSc Computing students at the University of South Africa (UniSA)**.
 
 ## About This Repository
 
@@ -80,6 +80,71 @@ The repository is organized by course:
 - **Linear Algebra I (MAT1503)**
 - **Theoretical Computer Science I (COS1501)**
 - **Visual Programming I (INF1511)**
+
+---
+
+## Contributing
+
+### Important: How Changes Are Handled
+
+The way your changes are submitted depends on your access level:
+
+#### For Users WITHOUT Push Access (Most Contributors)
+
+If you don't have push access to this repository, follow these steps to contribute:
+
+1. **Fork the Repository**
+   - Click the **Fork** button on the GitHub repository page
+   - This creates your own copy of the repository
+
+2. **Clone Your Fork**
+   ```
+   git clone https://github.com/your-username/repository-name.git
+   cd repository-name
+   ```
+
+3. **Create a New Branch**
+   ```
+   git checkout -b your-branch-name
+   ```
+
+4. **Make Your Changes**
+   - Edit files locally on your machine
+   - Save your changes
+
+5. **Commit Your Changes**
+   ```
+   git add .
+   git commit -m "Describe your changes here"
+   ```
+
+6. **Push to Your Fork**
+   ```
+   git push origin your-branch-name
+   ```
+
+7. **Create a Pull Request (PR)**
+   - Go to the original repository on GitHub
+   - Click **Pull Requests** → **New Pull Request**
+   - Select your fork and branch
+   - Describe your changes and submit the PR
+   - Wait for review and approval before your changes are merged
+
+**Important**: Your changes will **NOT** overwrite the main branch directly. Instead, a PR is created for review.
+
+#### For Users WITH Push Access (Repository Maintainers)
+
+If you have been granted push access:
+
+- You can push directly to the main branch: `git push origin main`
+- Your changes will be applied immediately (use with caution!)
+- It's still recommended to use branches and PRs for code review best practices
+
+### Before Contributing
+
+- Review existing materials to avoid duplicates
+- Ensure your contributions align with the course content
+- Check that files follow the repository's organization structure
 
 ---
 
