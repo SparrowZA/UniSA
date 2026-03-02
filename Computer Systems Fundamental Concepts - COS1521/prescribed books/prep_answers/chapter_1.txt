@@ -1,0 +1,27 @@
+1.1 The turing model is a theoretical computer model that has 4 main components: input, memory, program, processor (computer) and output
+
+1.2 The Vonn Neumann model was a more practical model of computer. He put the data and program of the computer into memory. He also
+broke the processor up into the ALU, controller.
+
+1.3 The role of a program in the turing model is to process data in a specific way to solve a specific problem.
+
+1.4 The role of a program in the Vonn Neumann model is process data for a problem.
+
+1.5 The various systems of a computer are: The Input/output, memory, ALU, and cotroll unit.
+
+1.6 The function of memory is to store data and the program that is to be used.
+
+1.7 The ALU performs arithmetic or logic operations on the data as per the program's instructions.
+
+1.8 The control unit fetches the instructions for the ALU, as well as fetches the data from memory.
+	- Controls operation of the memory, ALU and I/O systems
+
+1.9 The Input subsystem brings external data into the computer from different sources. The output subsystem takes the result of the
+processor and outputs it to some external source.
+
+1.10 First generation - Characterized by the emergence of commercial computers and were only used by proffensionals
+Second generation - Computers used transistors instead of valves.
+Third generation - Started with the invention of the integrated circuit that reduced the cost and size of computers further
+Fourth generation - Saw the appearance of microcomputers
+Fifth generation - Witnessed the appearance of laptop and palmtop computers, improvements in secondary storage, the use of multimedia
+				   and the phenomenon of virtual reality.
