@@ -1,0 +1,63 @@
+Dear student,
+
+As your assignment 4, you are expected to answer the questions provided. Please review the material
+to understand the terms, and then come here to provide a summary of your understanding in your own
+words. Avoid copying and pasting work from the internet, using AI or fellow students. If that
+happens, you will be awarded a zero for this assignment. You need to give your answers here in the
+discussion form. You are also allowed to comment, add to fellow students' responses.
+
+    1. What is your understanding of social and ethical issues that came with the introduction of
+       computers? Use real life examples and scenarios.
+    2. If you have a square room with a computer in each corner, which topology is more reliable.
+       Please justify your answer.
+    3. Use examples to differentiate between operating system and operation program.
+
+
+
+1. There are many social and ethical issues that have come about since the introduction of
+computers, below is a list of examples of some of them:
+	Security
+		Security is definitely one of the biggest issues that has arisen since the introduction
+		of computers. Security is such a broad concept it must be divided into multiple 
+	Data privacy
+		- Data is being collected continuously with every website and application used.
+		  ties into cyber security.
+		As we spend more time online and share more of our lives with people over the internet
+	finacial Security
+		- ebanking and e-commerce services.
+	cyber securtiy
+		- With more and more day-to-day services moving to online. Security becomes a major
+		  concern. Especially when it comes to e-commerce and banking online.
+	Growing technological gap
+		- The price of electronic components and smart devices means not everyone can afford
+		  connecting to the internet or to tools which others have access to creating an even
+		  broader technological divide.
+		  This is particularly previlent in the developing countries where basic necesities aren't
+		  even being met.
+	Cyber bullying
+		- Cyber bullying is a relatively new form of bullying that goes beyond the school walls and
+		  kids can now be bullied online wherever they are. The bullies also have the anonymity of
+		  the internet to hide behind. A lot of bullying has been brought on with the advent of
+		  social media networks.
+	Hyper reliance on technology
+		- 
+	Environmental Impact
+		- Increased electricity useage
+		- E-waste
+
+2.
+	A mesh network is the most reliable network topology, but also the most costly to implement.
+	Only having 4 devices on the network means that creating a mesh network is not completely
+	unfeesable and will create the most reliable network. In a mesh network if a link between two
+	nodes fails the neighbours of the failed node will recalculate the network and paths.
+	The network essentially becomes self healing and it requires multiple link fails to bring the
+	network down.
+
+3.
+	The oprating system is the base software that runs everything. It interfaces to the hardware,
+	it runs the file system, it interfaces to the user. The operating system executes at a
+	privileged security level called the kernel level.
+	Examples of operating systems are MacOS, Linux and Windows.
+	Operating programs are programs that run in the user space of the operating system. They are
+	generally used to perform a specific task for the user.
+	Examples of operating programs are Word, Notepad and photoshop.
