@@ -1,0 +1,63 @@
+--- Y E A R  2 ---
+==================
+COS2601 – Theoretical Computer Science II (Your main theoretical focus this year)
+	--- Year module ---
+	BOOK: Introduction to Computer Theory, 2nd edition, Daniel Cohen (Chp 1 - 11)
+	Recommended
+		Introduction to Languages and the Theory of Computation, 3rd edition, McGraw-Hill ()
+
+COS2611 – Programming: Data Structures (Fast-track for you)
+	--- year module ---
+	BOOK: C++ Programming, Cengage (specific UniSA book)
+		Algorithm analyses - Big-O notation
+		Pointers	(17)
+		Recursion	(18)
+		ADT			(17-21)
+		Search		(18-20)
+		Sort		(18-20)
+
+COS2614 – Programming: Contemporary Concepts (Fast-track for you)
+	--- year module ---
+	OOP design
+	BOOK: OOP GUI programming using Qt
+
+COS2621 – Computer Organisation (Hardware crossover with your EE background)
+	--- year module ---
+	Assembly x86
+	BOOK: Computer Organization and Architecture, Designing for Performance, ELEVENTH EDITION
+		(Chp1, 9, 11), (2, appendix B), (3), (14, 10, 12), (13, 4, 5), (6, 7, 15)
+
+ICT2621 – Structured Systems Analysis and Design (Heavy documentation)
+	--- year module ---
+	BOOK: Systems Analysis and Design, 12th EDITION, S. Tilley (Chp 1, 2, 4, 5, 7, 8, 9, 11, 12)
+
+ICT2622 – Object-Oriented Analysis (Heavy documentation)
+	--- year module ---
+	BOOK: Systems Analysis and Design in a Changing World, 7th EDITION, Satzinger, Jackson, Burd (Chp1, 2, 3, 4, 5, 9, 10, 12, 13)
+	
+	
+	
+	
+--- Y E A R  3 ---
+==================
+COS2661 – Formal Logic II (Abstract theory; requires steady attention)
+	BOOK: Language, proof andlogic, 2nd Edition, Stanford (Chp 1 - 14)
+
+COS3711 – Advanced Programming (Unlocked by passing 2611 & 2614)
+
+INF2603 – Databases I (Practical SQL/Relational concepts)
+
+INF2611 – Visual Programming II (Usually GUI-based desktop dev)
+
+STA1610 – Introduction to Statistics (Math focus)
+
+
+
+
+INF2603 – Databases I (Practical SQL/Relational concepts)
+
+INF2611 – Visual Programming II (Usually GUI-based desktop dev)
+
+ICT2621 – Structured Systems Analysis and Design (Heavy documentation)
+
+ICT2622 – Object-Oriented Analysis (Heavy documentation)
